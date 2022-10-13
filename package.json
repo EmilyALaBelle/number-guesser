@@ -1,0 +1,24 @@
+{
+  "name": "number-guesser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guess.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyALaBelle/number-guesser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyALaBelle/number-guesser/issues"
+  },
+  "homepage": "https://github.com/EmilyALaBelle/number-guesser#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
